@@ -186,7 +186,7 @@ bst.insert(28)
 bst.insert(39)
 
 
-//console.log(bst)
+console.log('bst',bst)
 
 console.log('size',bst.size())
 
