@@ -10,4 +10,6 @@
 ## Stack
 [RS School Basics - s01e04 - Stack](https://www.youtube.com/watch?v=TqlSlaMak8Y&t)
 
+[Stacks & Queues | Data Structures in JavaScript](https://www.youtube.com/watch?v=1AJ4ldcH2t4&ab_channel=beiatrix)
+
 
